@@ -21,3 +21,4 @@ def strcounter2(a):   #O(N*0)
         syms_counter[char] = syms_counter.get(char, 0)+1
     print(syms_counter)
 strcounter2(a)
+#новый код
